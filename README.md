@@ -1,29 +1,63 @@
-<h1>Hi 👋, I'm Quion</h1>
-<p>A passionate full stack developer from Taiwan 
-  I love building digital experiences and thrive on solving coding challenges. 
-  My world revolves around turning ideas into functional  and user-friendly applications. 
-  Let's create something amazing together! :coffee:Connect with me!
-</p>
-<h2>🚀 Languages and Tools I Use</h2>
-<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="42" height="42" /></a>
-<a target="_blank" href="https://angular.io/assets/images/logos/angular/angular.svg" style="display: inline-block;"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42" /></a>
-<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="42" height="42" /></a>
-<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/django.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="42" height="42" /></a>
-<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
-<h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://twitter.com/https://x.com/eco_scribe21554" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=qiuon&show_icons=true&locale=en" alt="qiuon" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=qiuon&show_icons=true&locale=en&layout=compact" alt="qiuon" /></p>
+# Hi there, I'm Quion 👋
+
+I'm a **Full Stack Developer** with mastery over both front-end and back-end technologies. I love crafting seamless user experiences while ensuring robust, scalable server-side architectures. 
+
+---
+
+## 🚀 About Me
+
+Passionate about turning ideas into reality, I specialize in building high-quality web applications that merge aesthetics with functionality. Whether I'm designing a pixel-perfect interface or architecting an API-driven backend, my goal is to deliver solutions that are both innovative and efficient.
+
+---
+
+## 🔧 Technologies & Tools
+
+### Front-End
+- **Languages:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks/Libraries:** React, Vue, Angular
+- **Styling:** SASS/SCSS, Bootstrap, Tailwind CSS
+- **Other:** Responsive Design, Progressive Web Apps
+
+### Back-End
+- **Languages & Frameworks:** Node.js, Express, Django, Ruby on Rails
+- **APIs:** RESTful APIs, GraphQL
+- **Databases:** MongoDB, PostgreSQL, MySQL
+
+### DevOps & Others
+- Git & Version Control
+- Docker & Containerization
+- AWS, Azure, or GCP for cloud solutions
+- CI/CD Pipelines, Agile Methodologies, and Test-Driven Development
+
+---
+
+## 📂 Projects
+
+### Quionai
+A tool to digitize your record management
+### EchoScribe
+EchoScribe | AI digital scribe for busy physicians.
+### PetScribe
+PetScribe | AI digital scribe for busy  veterinarians. 
+ScribbleVet is an AI scribe built specifically for vets.
+
+*For more of my work, please check out my [GitHub repositories](https://github.com/quionai).*
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+---
+
+## 📫 Let's Connect
+
+- **LinkedIn:** [LinkedIn ](https://www.linkedin.com/in/quionai)
+- **Twitter:** [Twitter](https://x.com/eco_scribe21554)
+- **Portfolio:** [Portfolio](quion.com/projects)
+- **Email:** askme@quionai
+
+---
+
+Thanks for visiting my profile! Feel free to reach out if you're interested in collaborating or just want to chat about tech.
