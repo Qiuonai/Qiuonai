@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Quion</h1>
 <p>A passionate full stack developer from Taiwan 
   I love building digital experiences and thrive on solving coding challenges. 
-  My world revolves around turning ideas into functional <br> and user-friendly applications. 
+  My world revolves around turning ideas into functional  and user-friendly applications. 
   Let's create something amazing together! :coffee:Connect with me!
 </p>
 <h2>🚀 Languages and Tools I Use</h2>
