@@ -1,6 +1,8 @@
 <h1>Hi 👋, I'm Quion</h1>
 <p>A passionate full stack developer from Taiwan 
-  I love building digital experiences and thrive on solving coding challenges. My world revolves around turning ideas into functional and user-friendly applications. Let's create something amazing together! :coffee:  Connect with me!
+  I love building digital experiences and thrive on solving coding challenges. 
+  My world revolves around turning ideas into functional and user-friendly applications. 
+  Let's create something amazing together! :coffee:Connect with me!
 </p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
